@@ -1,1 +1,2 @@
-# 2020-30-otus-java-Andreeva
+name Maria Andreeva
+repo: 2020-06-otus-java-Andreeva

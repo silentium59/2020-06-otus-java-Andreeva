@@ -1,0 +1,7 @@
+// https://docs.gradle.org/6.5/userguide/multi_project_builds.html
+
+
+
+rootProject.name = '2020-06-otus-java-Andreeva'
+include 'hw01-gradle'
+
